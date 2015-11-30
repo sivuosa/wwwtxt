@@ -1,2 +1,3 @@
 .DS_Store
 lib/generate_json.rb
+*.gem

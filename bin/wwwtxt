@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
 require 'wwwtxt'
-puts WWWTxt.print_tweet
+print WWWTxt.print_tweet

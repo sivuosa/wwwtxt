@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'wwwtxt'
-  s.version     = '0.0.2'
+  s.version     = '0.0.3'
   s.executables = ['wwwtxt']
   s.date        = '2015-11-30'
   s.summary     = "Messages from the past."
