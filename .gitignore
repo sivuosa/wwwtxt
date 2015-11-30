@@ -1,2 +1,2 @@
 .DS_Store
-generate_json.rb
+lib/generate_json.rb
