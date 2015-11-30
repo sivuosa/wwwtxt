@@ -1,8 +1,9 @@
 Gem::Specification.new do |s|
   s.name        = 'wwwtxt'
   s.version     = '0.0.1'
+  s.executables << 'wwwtxt'
   s.date        = '2015-11-30'
-  s.summary     = "A simple cli tool to print a tweet from the user wwwtxt."
+  s.summary     = "Messages from the past."
   s.description = "A simple cli tool to print a tweet from the user wwwtxt."
   s.authors     = ["Samuli Kärki"]
   s.email       = 'pomff@opmbx.org'

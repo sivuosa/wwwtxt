@@ -2,7 +2,7 @@ require 'json'
 
 class WWWTxt
   def self.print_tweet
-    tweets_json = File.read("tweets.json")
+    tweets_json = File.read(File.join( File.dirname(__FILE__), 'tweets.json'))
 
     tweets = JSON.parse(tweets_json)
 
